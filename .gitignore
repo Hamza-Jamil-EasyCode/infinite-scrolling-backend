@@ -1,0 +1,11 @@
+**/*.DS_Store
+
+.idea/
+.scannerwork/
+dist/
+node_modules/
+sonar.token
+# .env
+package-lock.json
+yarn.json
+
